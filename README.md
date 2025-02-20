@@ -20,6 +20,9 @@
 
 ## Araçlar & CLI
 ### Terminal Araçları
+
+- [kaydet](https://github.com/miratcan/kaydet): Mikro günlük tutmanızı sağlayan terminal uygulaması.
+ 
 ### Geliştirme Araçları
 ### Sistem Yönetimi
 
