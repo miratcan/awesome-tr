@@ -1,59 +1,36 @@
-# Awesome-TR
+# Awesome TR
 
-> Türk yazılım geliştiricilerinin açık kaynak projeleri, kütüphaneleri, blogları ve faydalı kaynaklarını listeleyen bir rehber.
+> Türk yazılım geliştiricilerinin açık kaynak projeleri, kütüphaneleri ve faydalı kaynaklarını listeleyen bir rehber.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Açık Kaynak Projeler
-### Python
-### JavaScript
-### Go
-### Rust
-### Diğer
+## Projeler
 
-## Kütüphaneler & Frameworkler
-### Web Geliştirme
-### Veri Bilimi & Yapay Zeka
-### Oyun Geliştirme
-### Mobil Geliştirme
-### Sistem Araçları
+### Araçlar & CLI
 
-## Araçlar & CLI
-### Terminal Araçları
+- [kaydet](https://github.com/miratcan/kaydet) - Mikro günlük tutmanızı sağlayan terminal uygulaması.
+- [safecopy](https://github.com/miratcan/safecopy) - MD5 doğrulamalı dosya kopyalama aracı. Samba ve USB diskler için.
 
-- [kaydet](https://github.com/miratcan/kaydet): Mikro günlük tutmanızı sağlayan terminal uygulaması.
- 
-### Geliştirme Araçları
-### Sistem Yönetimi
-
-## Uygulamalar & Oyunlar
-### Masaüstü Uygulamaları
-#### Windows
-#### macOS
-#### Linux
-### Mobil Uygulamalar
-#### iOS
-#### Android
-#### PWA
 ### Web Uygulamaları
-### Oyunlar
 
-## Bloglar & İçerik Üretenler
-### Kişisel Bloglar
-### Teknik Bloglar
-### YouTube Kanalları
-### Podcastler
+- [Eleman](https://github.com/miratcan/Eleman) - Airtable tabanlı statik iş ilanı sitesi oluşturucu. Docker ile çalışır.
+- [InternetGuzeldir](https://github.com/miratcan/InternetGuzeldir) - Google Spreadsheet'ten dmoz benzeri link rehberi oluşturan statik site jeneratörü.
+- [qhonuskan-votes](https://github.com/miratcan/qhonuskan-votes) - Django için Reddit benzeri oylama sistemi. GenericForeignKey kullanmaz.
 
-## Eğitim Kaynakları
-### Ücretsiz Eğitimler
-### Kitaplar
-### Video Serileri
+### Oyun Geliştirme
 
-## Topluluklar & Etkinlikler
-### Forumlar & Discord Grupları
-### Meetup & Konferanslar
-### Hackathonlar
+- [TahtLang](https://github.com/tahtlang/tahtlang) - Reigns tarzı kart oyunları için domain-specific language. Tree-sitter grammar ve LSP desteği ile.
+- [Osmancık](https://github.com/miratcan/osmancik) - TahtLang ile yazılmış Osmanlı saray yönetim oyunu. 81 kart, 12 karakter.
+
+### AI & MCP
+
+- [simsar-mcp](https://github.com/miratcan/simsar-mcp) - Claude için piyasa verisi MCP sunucusu.
+
+### Topluluk Listeleri
+
+- [yerli-bilisim-urunleri](https://github.com/miratcan/yerli-bilisim-urunleri) - Türkiye'de geliştirilen yazılım ürünlerinin açık listesi.
+- [usak-dev-directory](https://github.com/miratcan/usak-dev-directory) - Uşak'taki yazılımcıların listesi.
 
 ## Katkıda Bulun
-Bu listeyi daha kapsamlı hale getirmek için katkıda bulunabilirsiniz! Eğer eklemek istediğiniz bir proje, blog veya kaynak varsa, lütfen bir [pull request](https://github.com/) oluşturun veya issue açın. 🚀
 
+Eklemek istediğiniz bir proje veya kaynak varsa [pull request](https://github.com/miratcan/awesome-tr/pulls) açın.
