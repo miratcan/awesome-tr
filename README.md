@@ -26,6 +26,11 @@
 
 - [simsar-mcp](https://github.com/miratcan/simsar-mcp) - Claude için piyasa verisi MCP sunucusu.
 
+### Kütüphaneler & Şablonlar
+
+- [react-lookup-select](https://github.com/Onurlulardan/react-lookup-select) - Tek/çoklu seçim için modal ve grid destekli, headless ve özelleştirilebilir React lookup/select bileşeni.
+- [nextjstemplate](https://github.com/Onurlulardan/nextjstemplate) - Next.js 15, TypeScript, PostgreSQL ve Ant Design ile gelişmiş kimlik doğrulama, çok kuruluşlu yapı ve rol tabanlı izin yönetimi sunan başlangıç şablonu.
+
 ### Topluluk Listeleri
 
 - [yerli-bilisim-urunleri](https://github.com/miratcan/yerli-bilisim-urunleri) - Türkiye'de geliştirilen yazılım ürünlerinin açık listesi.
