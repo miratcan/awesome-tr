@@ -10,6 +10,7 @@
 
 - [kaydet](https://github.com/miratcan/kaydet) - Mikro günlük tutmanızı sağlayan terminal uygulaması.
 - [safecopy](https://github.com/miratcan/safecopy) - MD5 doğrulamalı dosya kopyalama aracı. Samba ve USB diskler için.
+- [barcode-scanner-emulator](https://github.com/ilyasozkurt/barcode-emulator-electron) - Fiziksel barkod cihazı olmadığı durumlar için barkod emülatörü
 
 ### Web Uygulamaları
 
