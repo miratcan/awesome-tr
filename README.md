@@ -19,6 +19,10 @@
 - [InternetGuzeldir](https://github.com/miratcan/InternetGuzeldir) - Google Spreadsheet'ten dmoz benzeri link rehberi oluşturan statik site jeneratörü.
 - [qhonuskan-votes](https://github.com/miratcan/qhonuskan-votes) - Django için Reddit benzeri oylama sistemi. GenericForeignKey kullanmaz.
 
+### Mobil Uygulamalar
+
+- [Dondurma RSS Reader](https://github.com/DevOpen-io/dondurma-rss-reader) - Flutter ile geliştirilmiş, Android ve iOS desteğine sahip; RSS/Atom, çevrimdışı okuma, tam metin çıkarma, bildirimler ve OPML içe/dışa aktarma özellikleri sunan açık kaynak RSS okuyucu.
+
 ### Oyun Geliştirme
 
 - [TahtLang](https://github.com/tahtlang/tahtlang) - Reigns tarzı kart oyunları için domain-specific language. Tree-sitter grammar ve LSP desteği ile.
