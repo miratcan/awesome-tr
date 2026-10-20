@@ -13,6 +13,7 @@
 - [barcode-scanner-emulator](https://github.com/ilyasozkurt/barcode-emulator-electron) - Fiziksel barkod cihazı olmadığı durumlar için barkod emülatörü
 - [flowscreen](https://github.com/hamzauguz/flowscreen) - Uygulamalardaki error, empty, maintenance gibi state’ler için hazır, özelleştirilebilir UI ekranları sunan modern bir React/Next.js kütüphanesi.
 - [Simpaper](https://github.com/enestanerr/Simpaper) - Değiştirilmeden kullanılan LibreOffice motorunu Electron arayüzüyle birleştiren, Windows 10/11 x64 için erken aşamadaki açık kaynak ofis projesi.
+- [DoctorDock](https://github.com/iamcanturk/DoctorDock) - Docker ortamındaki güvenlik sorunlarını, yanlış yapılandırmaları ve boşa giden diski internet bağlantısı olmadan bulan Go ile yazılmış CLI aracı.
 
 ### Web Uygulamaları
 
