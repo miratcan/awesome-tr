@@ -28,11 +28,14 @@
 ### AI & MCP
 
 - [simsar-mcp](https://github.com/miratcan/simsar-mcp) - Claude için piyasa verisi MCP sunucusu.
+- [Cognipeer Console](https://github.com/Cognipeer/console) - Çok kiracılı ekipler için OpenAI uyumlu LLM yönlendirme, RAG, MCP hub, guardrail ve ajan izleme sunan, kendi sunucunuzda çalışan açık kaynak yapay zeka ağ geçidi ve kontrol düzlemi (topluluk sürümü AGPL-3.0).
+- [agent-sdk](https://github.com/Cognipeer/agent-sdk) - Planlama, alt ajanlar, araç çağrıları için insan onayı, MCP araçları ve OpenTelemetry izleme sunan, mesaj odaklı bir TypeScript ajan çalışma zamanı.
 
 ### Kütüphaneler & Şablonlar
 
 - [react-lookup-select](https://github.com/Onurlulardan/react-lookup-select) - Tek/çoklu seçim için modal ve grid destekli, headless ve özelleştirilebilir React lookup/select bileşeni.
 - [nextjstemplate](https://github.com/Onurlulardan/nextjstemplate) - Next.js 15, TypeScript, PostgreSQL ve Ant Design ile gelişmiş kimlik doğrulama, çok kuruluşlu yapı ve rol tabanlı izin yönetimi sunan başlangıç şablonu.
+- [to-markdown](https://github.com/Cognipeer/to-markdown) - PDF, Word, Excel, PowerPoint, HTML, EPUB ve görüntü gibi dosyaları LLM ve RAG hatları için Markdown'a çeviren, isteğe bağlı OCR destekli bir Node.js kütüphanesi.
 
 ### Topluluk Listeleri
 
